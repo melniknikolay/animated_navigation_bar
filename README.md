@@ -1,16 +1,7 @@
 # animated_navigation_bar
 
-A new Flutter project.
+Test the app using the [Rive] package on the navigation bar example. 
 
-## Getting Started
+![bandicam 2023-01-16 13-24-23-468](https://user-images.githubusercontent.com/52530890/212661576-3ba21577-fcfb-4e36-bc4a-8bd92f8d212c.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Rive]:https://pub.dev/packages/rive
